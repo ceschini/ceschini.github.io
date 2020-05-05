@@ -1618,3 +1618,7 @@ body.is-article-visible #footer {
 body.is-preload #footer {
   opacity: 0;
 }
+
+.primary {
+  margin-right: 1em;
+}
